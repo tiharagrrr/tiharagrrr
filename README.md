@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of technologies.
 - 📫 You can reach me via email, tiharaeg@gmail.com
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I can't do anything without a beverage :D
+
 
 <!---
 tiharagrrr/tiharagrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
