@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tiharagrrr
-- 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning a lot of technologies.
+- 👋 Hi, I’m Tihara or Tee for short hehe.
+- 👀 My hobbies are coding, listening to music and playing league :)
+- 🌱 I’m currently learning technologies such as Next js and the MERN stack as well as Machine Learning.
 - 📫 You can reach me via email, tiharaeg@gmail.com
 - 😄 Pronouns: She/ Her
 
