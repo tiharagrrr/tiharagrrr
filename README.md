@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tihara or Tee for short hehe.
+- 👋 Hi, I’m Tihara or Tee for short.
 - 👀 My hobbies are coding, listening to music and playing league :)
 - 🌱 I’m currently learning technologies such as Next js and the MERN stack as well as Machine Learning.
 - 📫 You can reach me via email, tiharaeg@gmail.com
